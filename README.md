@@ -27,6 +27,8 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwvDp464ktZCsj8h7rXFBE8r
 18. 使用别名
 19. 玩转开源中国Gitee
 
+![Git Command List](https://github.com/komavideo/LearnGit/blob/master/git_command_list.png "Git Command List")
+
 ## 课程文件
 
 https://github.com/komavideo/LearnGit
